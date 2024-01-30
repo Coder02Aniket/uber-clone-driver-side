@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "288165134411",
+    "project_id": "qwiker-uber-clone",
+    "storage_bucket": "qwiker-uber-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288165134411:android:d10357f4d779ad57c14dce",
+        "android_client_info": {
+          "package_name": "com.example.qwiker_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfTvjCnR9YziI0WWDrwlM_Nj30d58be44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288165134411:android:72093edceb2c35fbc14dce",
+        "android_client_info": {
+          "package_name": "com.example.qwiker_rider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfTvjCnR9YziI0WWDrwlM_Nj30d58be44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
