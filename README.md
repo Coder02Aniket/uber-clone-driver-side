@@ -1,5 +1,6 @@
 uber-clone-driver-side
-Created with the help of user https://github.com/Awad-Safwat/qwiker-uber-clone-rider_driver thanks for his guidance
+
+Created with the help of user [Awad Safwat](https://github.com/awad-safwat) and his repository https://github.com/Awad-Safwat/qwiker-uber-clone-rider_driver thanks for his guidance
 # qwiker_driver
 
 A new Flutter project.
